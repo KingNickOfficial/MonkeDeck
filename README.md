@@ -1,4 +1,4 @@
-# MonkeDeck
+![MonkeDeckLogo](https://github.com/user-attachments/assets/682c20a2-0082-496e-9a14-df975917a8d9)
 
 A way to play Gorilla Tag on Steam Deck!
 
